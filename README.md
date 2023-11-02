@@ -18,9 +18,7 @@ Stay in the loop with Mayank Pareek and his fantastic journey through the world 
 
 📌 Follow Mayank on [LinkedIn](https://www.linkedin.com/in/mayankpareek740) for professional insights and industry updates.
 
-🐦 Catch up with Mayank on [Twitter](https://twitter.com/mayank_dev) for the latest in tech, data, and Flutter trends.
-
-📸 Explore Mayank's visual adventures on [Instagram](https://www.instagram.com/mayank.codes) for a sneak peek into his creative world.
+🐦 Catch up with Mayank on [Twitter/X](https://twitter.com/mayank_dev) for the latest in tech, data, and Flutter trends.
 
 📚 Dive deep into Mayank's projects on [GitHub](https://github.com/mayankcodezz) and discover the magic he's brewing with data science and Flutter.
 
