@@ -1,4 +1,4 @@
-# Meet Mayank Pareek: Data Science Enthusiast and Flutter Wizard 🚀
+ # Meet Mayank Pareek: Data Science Enthusiast and Flutter Wizard 🚀
 
 Hey there, data wizards and Flutter fanatics! 👋 Welcome to the fascinating world of Mayank Pareek, where data science meets the magic of Flutter development. Get ready to embark on an exhilarating journey through the realms of data analysis, machine learning, and the captivating world of Flutter apps.
 
@@ -17,8 +17,6 @@ Mayank Pareek is not just your ordinary developer; he's a passionate data scienc
 Stay in the loop with Mayank Pareek and his fantastic journey through the world of data and Flutter. Connect with him on various social media platforms:
 
 📌 Follow Mayank on [LinkedIn](https://www.linkedin.com/in/mayankpareek740) for professional insights and industry updates.
-
-🐦 Catch up with Mayank on [Twitter/X](https://twitter.com/mayank_dev) for the latest in tech, data, and Flutter trends.
 
 📚 Dive deep into Mayank's projects on [GitHub](https://github.com/mayankcodezzz) and discover the magic he's brewing with data science and Flutter.
 
