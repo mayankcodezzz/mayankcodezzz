@@ -20,6 +20,6 @@ Stay in the loop with Mayank Pareek and his fantastic journey through the world 
 
 🐦 Catch up with Mayank on [Twitter/X](https://twitter.com/mayank_dev) for the latest in tech, data, and Flutter trends.
 
-📚 Dive deep into Mayank's projects on [GitHub](https://github.com/mayankcodezz) and discover the magic he's brewing with data science and Flutter.
+📚 Dive deep into Mayank's projects on [GitHub](https://github.com/mayankcodezzz) and discover the magic he's brewing with data science and Flutter.
 
 Get ready to be amazed by Mayank Pareek's passion for data and the enchanting world of Flutter. Join him on this extraordinary journey, and let's turn data into digital gold and Flutter into mobile marvels! 💫✨🚀
