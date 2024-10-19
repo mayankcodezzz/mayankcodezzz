@@ -12,6 +12,15 @@ Mayank Pareek is not just your ordinary developer; he's a passionate data scienc
 
 📱 **Flutter Enchanter**: Flutter is Mayank's playground, and he's an expert at crafting beautiful and functional mobile applications. From slick user interfaces to seamless user experiences, his Flutter spells will leave you spellbound.
 
+## Flutter projects
+ 📌 Task Management App [Effintho](https://github.com/mayankcodezzz/Task-Management-app-using-flutter-firebase)
+ 📌 Resume Automation App [NexNebulas](https://nexnebulas.web.app/)
+ 📌 Notes App Using Sqflite [Notrika](https://github.com/mayankcodezzz/notes-app-offline-using-sqflite-in-flutter)
+ 📌 Hospital Management App [Healytry](https://github.com/mayankcodezzz/healytra)
+ 📌 School Website [Ghss harsore](https://ghssharsore-148f1.web.app/)
+ 
+ 
+
 ## Stay Connected 🌐
 
 Stay in the loop with Mayank Pareek and his fantastic journey through the world of data and Flutter. Connect with him on various social media platforms:
