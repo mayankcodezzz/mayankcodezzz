@@ -1,1 +1,1 @@
-i will post something soon.......... it;s hards:/
+i will post something soon.......... it;s hard:/
